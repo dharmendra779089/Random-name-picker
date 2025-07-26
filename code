@@ -1,0 +1,4 @@
+import random
+friends = ["alice","bob","charlie","david","emanuel"]
+n=random.randint(0,4)
+print(friends[n])
